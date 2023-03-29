@@ -1,0 +1,63 @@
+
+#score {
+    width: 600px;
+    margin: auto;
+    background-color:aliceblue;
+    font-size:20px;
+  }
+  #potato1 {
+        width: 600px;
+        margin: auto;
+        background-color:rgba(240, 248, 255, 0.71);
+        
+        font-size:20px;
+  }
+  #potato2 {
+    width: 600px;
+    margin: auto;
+    background-color:rgba(240, 248, 255, 0.71);
+    font-size:20px;
+}
+#potato3 {
+    width: 600px;
+    margin: auto;
+    background-color:rgba(240, 248, 255, 0.71);
+    font-size:20px;
+}
+#potato4 {
+    width: 600px;
+    margin: auto;
+    background-color:rgba(240, 248, 255, 0.71);
+    font-size:20px;
+}
+  #title{
+    width: 600px;
+    margin: auto;
+    background-color:rgba(240, 248, 255, 1);
+    font-size:20px;
+  }
+  #result {
+    width: 600px;
+    margin: auto;
+    background-color:aliceblue;
+    font-size:20px;
+  }
+  body {
+    background-image:url("download.jfif") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:98%;
+}
+
+#potato1:hover{
+    background-color:rgba(240, 248, 255,1);
+}
+#potato2:hover{
+    background-color:rgba(240, 248, 255,1);
+}
+#potato3:hover{
+    background-color:rgba(240, 248, 255,1);
+}
+#potato4:hover{
+    background-color:rgba(240, 248, 255,1);
+}
